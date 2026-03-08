@@ -1,5 +1,5 @@
 # ------------------------------------------------------------------------------
-music = Sound("今はいいんだよfeat. 可不.mp3")
+music = Sound("Fallen down cover piano.mp3")
 keepPlaying = True
 music.play()
 scene = "BEGINNING"
