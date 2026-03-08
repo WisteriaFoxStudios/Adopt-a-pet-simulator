@@ -456,7 +456,8 @@ elif scene == "GAMEOVER":
 elif scene == "ENDINGDAY":
     st.success("✩₊˚.⋆☾⋆⁺₊✧ GAME ENDED! ✩₊˚.⋆☾⋆⁺₊✧")
     st.write(st.session_state.ending_message)
-    st.write("SONG: 今はいいんだよ feat. 可不. ALL CREDITS GO TO MIMI.")
+    st.write("SONG: FALLEN DOWN; COVER BY ME ORIGINAL SONG BY TOBY FOX. ALL RIGHTS RESEVERED ON THIS COVER!")
+    st.write("PLEASE DO NOT USE ANYWHERE ELSE. IT IS PROTECTED BY THE COPY RIGHT STRIKE: CC BY-ND")
     st.write("ヾ(＾ ∇ ＾) Bye~! Have a good day!")
 
     if st.button("Play again with a different buddy"):
